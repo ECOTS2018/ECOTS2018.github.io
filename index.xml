@@ -27,7 +27,7 @@
       
       <guid>/classroom/</guid>
       <description>Connecting Your Organization to Github Classroom The most basic way to use github in your classroom is to connect your organization to Github Classroom.
- Go to the Github Classroom Main Page. Click Sign in  Fill in your Github username and password:  Create New Classroom:  Click on your Organization / Grant Access to your Organization:  For this one, if you played with some settings for your organization you may see it in the available list.</description>
+ Go to the Github Classroom Main Page.  Click Sign in  Fill in your Github username and password:  Create New Classroom:  Click on your Organization / Grant Access to your Organization:  For this one, if you played with some settings for your organization you may see it in the available list.</description>
     </item>
     
     <item>
@@ -36,10 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/assignments/</guid>
-      <description>Creating Assignments The first time you need to create an assignment, github has made it relatively simple with a Create Your first Assignment Button.
-Let&amp;rsquo;s do one more step before we proceed with this!
-Creating Assignment Repository One feature with github is we can create a repository with with an assignment outline, sample code, data, &amp;hellip;
- Go back to your organization repository. https://github.com/organization-name Once there, click on New.  Give the assignment a meaningful name:  Check to initialize with README.</description>
+      <description>Creating Assignments The first time you need to create an assignment, github has made it relatively simple with a Create Your first Assignment Button. Let&amp;rsquo;s do one more step before we proceed with this! Creating Assignment Repository One feature with github is we can create a repository with with an assignment outline, sample code, data, &amp;hellip;
+ In a new tab go to organization repository. https://github.com/organization-name  Once there, click on New.</description>
     </item>
     
     <item>

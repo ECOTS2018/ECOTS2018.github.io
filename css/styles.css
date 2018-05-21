@@ -2,8 +2,8 @@ html {
   font-size: 100%;
 }
 body {
-  font-size: 15px;
-  font-size: 0.9375rem;
+  font-size: 20px;
+  font-size: 1.25rem;
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   color: #666666;
   padding: 0;
@@ -796,3 +796,14 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   }
+
+
+
