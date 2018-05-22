@@ -21,6 +21,21 @@
     </item>
     
     <item>
+      <title>Additional Resources</title>
+      <link>/additional-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/additional-resources/</guid>
+      <description>Additional Resources Free Training Github Education offers free individual training. Sign up for a session
+
+Happy Git with R Jenny Bryan wrote an amazing book about using R and github, it is definitely worth a read.
+
+Github and RStudio Below is the link to an excellent article by RStudio on how to connect R and Github.
+
+How Hadley Wickham uses Github A great video by Hadley Wickham on the benefits of using github.</description>
+    </item>
+    
+    <item>
       <title>Connecting to Github Classroom</title>
       <link>/classroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
